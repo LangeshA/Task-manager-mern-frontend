@@ -1,6 +1,3 @@
-Sure, here's a basic outline of how you could set up a task management application using MongoDB for data storage, along with routing, context/redux for state management, and a RESTful API for authentication and task management. We'll create a README file for this project.
-
----
 
 # Task Management Application
 
